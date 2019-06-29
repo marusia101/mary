@@ -1,9 +1,9 @@
-@font-face {
-  src: url("./fonts/16758.otf");
-  font-family: New_font;
+body * {
+  outline: 1px solid red;
 }
 
-html * {
-  outline: 1px solid red;
-  font-family: New_font;
+.first-styled-span {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
 }
